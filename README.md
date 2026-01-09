@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Daniel, a Physics & Astrophysics graduate (B.S) from UC Irvine with a passion for exploring the cosmos and building cool things with code! 🚀
+I'm Daniel, a Physics & Astrophysics graduate (B.S) from UC Irvine with a passion for exploring the cosmos and building cool things with code! 
 
 ### I've worked/working on...
 
-- Served as **Chief Scientist** for a NASA L'SPACE Mission Concept Academy team, designing science architectures for lunar robotic missions exploring lava pits on the Moon 🌙
+- Served as **Chief Scientist** for a NASA L'SPACE Mission Concept Academy team, designing science architectures for lunar robotic missions exploring lava pits on the Moon 
 - Analyzing massive astrophysical datasets - most recently processing 50,000+ quasar observations to understand cosmic evolution
 
 ### I'm currently learning...
@@ -15,9 +15,9 @@ I'm Daniel, a Physics & Astrophysics graduate (B.S) from UC Irvine with a passio
 
 ### Recent Highlights
 
-- 🏆 Won $1000 bounty at Columbia blockchain hackathon for a Web3 credit scoring system
-- 🚀 Designed science traceability matrices and payload trade studies for lunar missions
-- 📊 Built data pipelines analyzing quasar properties to support Hubble's Law and understand universe expansion
+- Won $1000 bounty at Columbia blockchain hackathon for a Web3 credit scoring system
+- Designed science traceability matrices and payload trade studies for lunar missions
+- Built data pipelines analyzing quasar properties to support Hubble's Law and understand universe expansion
 
 ### Ask me about...
 
